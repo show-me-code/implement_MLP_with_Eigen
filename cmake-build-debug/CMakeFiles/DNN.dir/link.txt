@@ -1,0 +1,1 @@
+/usr/bin/c++   -O0 -fopenmp -g    CMakeFiles/DNN.dir/inference.cpp.o  -o DNN 

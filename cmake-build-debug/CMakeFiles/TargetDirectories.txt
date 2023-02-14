@@ -1,0 +1,3 @@
+/mnt/c/Users/drsun/CLionProjects/DNN/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/drsun/CLionProjects/DNN/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/drsun/CLionProjects/DNN/cmake-build-debug/CMakeFiles/DNN.dir
